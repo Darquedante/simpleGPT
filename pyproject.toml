@@ -3,10 +3,10 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "simplegpt"
+name = "smolegpt"
 version = "0.1.0"
-description = "Simple GPT implementation in PyTorch."
-authors = [{ name = "jaymody", email = "jaykmody@gmail.com" }]
+description = "Smol GPT implementation in PyTorch."
+authors = [{ name = "DarqueDante", email = "darquedante@sdf.org" }]
 dependencies = [
     "torch>=2.0.1",
     "einops>=0.6.1",
